@@ -1,0 +1,15 @@
+jupyterlab
+python-dotenv
+langchain-openai
+#langchain-pinecone
+#pinecone-client
+unstructured
+#pdf2image
+#pdfminer-six==20231228
+#pillow_heif
+#opencv-python
+#unstructured_inference
+#pytesseract
+#pikepdf
+#ipywidgets
+deep-translator
